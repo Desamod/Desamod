@@ -29,12 +29,12 @@
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"> Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"></h2>
     <a style="display: flex; align-items: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod&theme=blueberry" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod&theme=github_dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
     </a>
     <a style="display: flex; align-items: left;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod&theme=blueberry">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod&theme=github_dark">
     </a>
     <a style="display: flex; align-items: right;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod&theme=blueberry">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod&theme=github_dark">
     </a>
 </div>

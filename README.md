@@ -38,6 +38,7 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod&theme=nord_bright"
     />
   </picture>
+  <a style="display: flex; align-items: left;">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -48,6 +49,8 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod&theme=nord_bright"
     />
   </picture>
+  </a>
+  <a style="display: flex; align-items: right;">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -58,4 +61,5 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod&theme=nord_bright"
     />
   </picture>
+  </a>
 </div>

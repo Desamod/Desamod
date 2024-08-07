@@ -27,7 +27,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"> Support me <img src="https://www.kindpng.com/picc/b/237-2379108_donate-icon-png.png" alt="Donate logo" width="50" height="50"></h1>
-<h1 align="left"><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=032" alt="Bitcoin logo" width="30" height="50"> Bitcoin </h1>
+<h1 align="left"><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=032" alt="Bitcoin logo" width="30" height="30"> Bitcoin </h1>
 
 ```
 1CSz5JfxpjrJJi3v747kkb45xFNzN31fQi

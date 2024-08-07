@@ -28,13 +28,46 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"> Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"></h2>
-    <a style="display: flex; align-items: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod&theme=github_dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
-    </a>
-    <a style="display: flex; align-items: left;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod&theme=github_dark">
-    </a>
-    <a style="display: flex; align-items: right;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod&theme=github_dark">
-    </a>
+    <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod&theme=nord_bright)"
+    />
+    <img
+      alt="github profile details"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod&theme=nord_bright)"
+    />
+    <img
+      alt="github profile details"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod&theme=nord_bright)"
+    />
+    <img
+      alt="github profile details"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod"
+    />
+  </picture>
 </div>

@@ -39,7 +39,7 @@
     />
     <img
       alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod&theme=nord_bright"
     />
   </picture>
   <picture>
@@ -53,7 +53,7 @@
     />
     <img
       alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod&theme=nord_bright"
     />
   </picture>
   <picture>
@@ -67,7 +67,7 @@
     />
     <img
       alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod&theme=nord_bright"
     />
   </picture>
 </div>

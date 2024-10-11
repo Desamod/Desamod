@@ -18,7 +18,7 @@
     />
   </picture>
   <br>
-  <a href="https://t.me/desforge_crypto"><img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel"></a>
+  <a href="https://t.me/desforge_cryptwo"><img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel"></a>
   <a href="mailto:domaseddd@gmail.com"><img src="https://img.shields.io/badge/Mail-%232E87FB?style=for-the-badge&logo=gmail&logoColor=white&color=C71610"/></a>
   <br>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Desamod&label=Profile%20Visits&style=for-the-badge" />

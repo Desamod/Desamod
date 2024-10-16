@@ -51,7 +51,7 @@ TN2yy56bmbXYosS2jnjW9TyiJbs5Qdtv4m
 ```
 <h1 align="left">
   <img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=032" alt="Tether logo" width="30" height="30">
-  <img src="https://www.nadcab.com/public/images/blockchain/bsc/bep20token_nadcab.png" alt="BEP logo" width="30" height="30"> 
+  <img src="https://logos-download.com/wp-content/uploads/2023/02/BNB_BNB_Logo-3000x3000.png" alt="BEP logo" width="30" height="30"> 
   USDT BEP20 </h1>
   
 ```

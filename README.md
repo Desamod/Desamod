@@ -18,8 +18,10 @@
     />
   </picture>
   <br>
-  <a href="https://t.me/desforge_cryptwo"><img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel"></a>
-  <a href="mailto:domaseddd@gmail.com"><img src="https://img.shields.io/badge/Mail-%232E87FB?style=for-the-badge&logo=gmail&logoColor=white&color=C71610"/></a>
+   <a href="https://t.me/desforge_cryptwo"><img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel"></a>
+   <a href="https://proxy6.net/d/639060"><img src="https://img.shields.io/badge/-Proxies-009aed?style=for-the-badge"/></a>
+   <a href="https://smspool.net/?r=DesForge"><img src="https://img.shields.io/badge/-SMS Verifications-00b86b?style=for-the-badge"/></a>
+   <a href="mailto:domaseddd@gmail.com"><img src="https://img.shields.io/badge/Mail-%232E87FB?style=for-the-badge&logo=gmail&logoColor=white&color=C71610"/></a>
   <br>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Desamod&label=Profile%20Visits&style=for-the-badge" />
   <br>
